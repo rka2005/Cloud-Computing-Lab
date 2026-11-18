@@ -25,3 +25,15 @@ Implement and evaluate various task scheduling mechanisms using an open-source c
 ### Experiment 6 - [Familiarization and Usage of Cloud Services Using AWS and Open-Source Cloud Tools](Assignment-6.docx)
 
 Become familiar with cloud services provided by AWS and open-source cloud tools through practical usage.
+
+### Experiment 7 - [Familiarization and Usage of Collaborative Applications (SaaS)](EXPERIMENT%207.docx)
+
+Become familiar with collaborative applications delivered through the Software as a Service (SaaS) cloud model.
+
+### Experiment 8 - [Implementing Applications using Google App Engine (PaaS)](EXPERIMENT%208.docx)
+
+Implement and deploy applications using Google App Engine as a Platform as a Service (PaaS).
+
+### Experiment 9 - [Develop MapReduce Application Using Hadoop Cluster Setup](EXPERIMENT%209-%20Develop%20MapReduce%20Application%20Using%20Hadoop%20Cluster%20Setup.docx)
+
+Develop and execute a MapReduce application using a Hadoop cluster setup.
