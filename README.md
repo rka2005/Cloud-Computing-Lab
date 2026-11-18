@@ -34,6 +34,6 @@ Become familiar with collaborative applications delivered through the Software a
 
 Implement and deploy applications using Google App Engine as a Platform as a Service (PaaS).
 
-### Experiment 9 - [Develop MapReduce Application Using Hadoop Cluster Setup](EXPERIMENT%209-%20Develop%20MapReduce%20Application%20Using%20Hadoop%20Cluster%20Setup.pdf)
+### Experiment 9 - [Develop MapReduce Application Using Hadoop Cluster Setup](EXPERIMENT%209-%20Develop%20MapReduce%20Application%20Using%20Hadoop%20Cluster%20Setup.docx)
 
 Develop and execute a MapReduce application using a Hadoop cluster setup.
